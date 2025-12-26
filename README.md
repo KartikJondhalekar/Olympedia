@@ -2,7 +2,7 @@
 
 A comprehensive **Olympic data management system** with **Role-Based Access Control** built on Python and MySQL. This application enables efficient management and exploration of Olympic history through structured database interactions, stored procedures, and an intuitive CLI interface.
 
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue) ![MySQL](https://img.shields.io/badge/MySQL-Relational%20DB-orange) ![Architecture](https://img.shields.io/badge/Architecture-Client--Server-green)
+![Python](https://img.shields.io/badge/Python3-3.12%2B-blue) ![MySQL](https://img.shields.io/badge/MySQL-Relational%20DB-orange) ![Architecture](https://img.shields.io/badge/Architecture-Client--Server-green)
 
 ---
 
